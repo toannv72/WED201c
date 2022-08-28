@@ -1,0 +1,100 @@
+.container {
+  display: flex;
+  width: 100%;
+}
+
+.container div {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container ul {
+  list-style: none;
+  display: flex;
+}
+.container ul li {
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.container ul li a {
+  text-decoration: none;
+}
+.container img {
+  /* margin-left: 110px; */
+  width: 299px;
+  height: 109px;
+}
+.search {
+  margin-left: 200px;
+  margin-top: 33px;
+  display: flex;
+}
+.search button {
+  background-color: rgb(236, 112, 23);
+
+  height: 27px;
+}
+.search input {
+  width: 156px;
+  height: 27px;
+}
+.header {
+  display: flex;
+}
+.header img {
+  width: 50%;
+}
+
+.product h1 {
+  text-align: center;
+  color: red;
+}
+.product h2 {
+  color: blue;
+}
+.product span {
+  color: rgb(237, 120, 18);
+}
+.p2 {
+  display: flex;
+  column-count: 3;
+}
+.p2 img {
+  width: 683px;
+}
+.YEAR h1 {
+  text-align: center;
+  color: red;
+}
+.end {
+  width: 100%;
+  height: 130px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.977);
+  background-color: rgb(218, 128, 26);
+  padding: 8px 0;
+  margin-top: 32px;
+}
+.end e1 {
+  margin-top: 10px;
+}
+.laptop {
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+.laptop img {
+  height: 222px;
+  width: 100%;
+}
+.laptop h3 {
+  text-align: center;
+  background-color: rgb(218, 128, 26);
+  color: aliceblue;
+}
+.mm {
+  border: 2px double rgb(151, 144, 144);
+  margin-left: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
